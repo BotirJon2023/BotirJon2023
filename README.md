@@ -33,7 +33,6 @@
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg" title="spring" width="80" height="80"/>&nbsp;
 <img src="https://img.icons8.com/color/96/000000/intellij-idea.png" title="intellij-idea" width="80" height="80"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=docker" title="docker" width="80" height="80"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" title="linux" width="80" height="80"/>&nbsp;
 <img src="https://cdn.simpleicons.org/postman/FF6C37" title="postman" width="80" height="80"/>&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/> </a> 
