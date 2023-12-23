@@ -22,9 +22,9 @@
 
 
 <p align="center">
- <img width="600" src="(JavaBook/tree/main/github-snake.svg)" alt="snake"/>
-</p>
-  
+ <img width="600" src="main/github-snake.svg" alt="snake"/>
+</p> 
+
 ---
 		
 ### Languages and tools
