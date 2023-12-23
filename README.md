@@ -15,7 +15,7 @@
 ### About me
 - 🤓 Intern Java Developer
 - 🌱 I’m currently learning **Java**
-- 📄 Know about me [CV]([2 CV_B.Ruzmetov IT.pdf](https://github.com/BotirJon2023/Basic_Java/tree/main/2 CV_B.Ruzmetov IT.pdf))
+- 📄 Know about me [CV](https://github.com/BotirJon2023/Basic_Java/tree/main/CV_B.Ruzmetov.pdf)
 - 💻 Working on a project [HotelProjectApp](https://github.com/BotirJon2023/Basic_Java/tree/main/HotelProjectApp)
 - 📫 Reach me by email: lawyer.b.ruzmetov@gmail.com
 - 🌍 I speak English, German, Turkish, Russian, Uzbek 
