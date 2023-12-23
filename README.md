@@ -11,10 +11,6 @@
 	<img src="https://img.shields.io/badge/LeetCode-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 	</a>
 </div>
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
   
 ### About me
 - 🤓 Intern Java Developer
@@ -23,7 +19,12 @@
 - 💻 Working on a project [HotelProjectApp](https://github.com/BotirJon2023/Basic_Java/tree/main/HotelProjectApp)
 - 📫 Reach me by email: lawyer.b.ruzmetov@gmail.com
 - 🌍 I speak English, German, Turkish, Russian, Uzbek 
-		
+
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+  
 ---
 		
 ### Languages and tools
