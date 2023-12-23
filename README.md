@@ -11,7 +11,11 @@
 	<img src="https://img.shields.io/badge/LeetCode-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 	</a>
 </div>
-		
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+  
 ### About me
 - 🤓 Intern Java Developer
 - 🌱 I’m currently learning **Java**
