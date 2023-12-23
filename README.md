@@ -1,7 +1,7 @@
 <div id="header">
-		<h1>👋 Hi there, I'm BotirJon </h1>
-		<h3>Java Developer</h3>
-		</div>
+    <h1>👋 Hi there, I'm Botirjon Ruzmetov</h1>
+    <h3>Java Developer</h3>
+</div>
 		
 		<div id="socials"">
 		<a href="https://www.linkedin.com/in/botirjon-ruzmetov-243a542a4/" style="text-decoration: none;">
