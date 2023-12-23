@@ -21,10 +21,6 @@
 - 🌍 I speak English, German, Turkish, Russian, Uzbek 
 
 
-<p align="center">
- <img width="600" src="JavaBook/github-snake.svg" alt="snake"/>
-</p> 
-
 ---
 		
 ### Languages and tools
