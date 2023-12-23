@@ -22,7 +22,7 @@
 
 
 <p align="center">
- <img width="600" src="(https://github.com/BotirJon2023/JavaBook/tree/main/github-snake.svg)" alt="snake"/>
+ <img width="600" src="(JavaBook/tree/main/github-snake.svg)" alt="snake"/>
 </p>
   
 ---
