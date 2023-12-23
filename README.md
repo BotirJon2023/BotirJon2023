@@ -3,14 +3,14 @@
     <h3>Java Developer</h3>
 </div>
 		
-		<div id="socials"">
-		<a href="https://www.linkedin.com/in/botirjon-ruzmetov-243a542a4/" style="text-decoration: none;">
-		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" heigth="100px" alt="LinkedIn""/>
-		</a>
-		<a href="https://leetcode.com/Botirjon_Ruzmetov/" style="text-decoration: none;">
-		<img src="https://img.shields.io/badge/LeetCode-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-		</a>
-		</div>
+<div id="socials"">
+	<a href="https://www.linkedin.com/in/botirjon-ruzmetov-243a542a4/" style="text-decoration: none;">
+	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" heigth="100px" alt="LinkedIn""/>
+	</a>
+	<a href="https://leetcode.com/Botirjon_Ruzmetov/" style="text-decoration: none;">
+	<img src="https://img.shields.io/badge/LeetCode-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+	</a>
+</div>
 		
 		### About me
 		- 🤓 Intern Java Developer
