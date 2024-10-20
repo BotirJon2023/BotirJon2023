@@ -4,7 +4,7 @@
 </div>
 		
 <div id="socials"">
-	<a href="https://www.linkedin.com/in/botirjon-ruzmetov-243a542a4/" style="text-decoration: none;">
+	<a href="https://www.linkedin.com/in/botirjon-ruzmetov-4163861b7/" style="text-decoration: none;">
 	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" heigth="100px" alt="LinkedIn""/>
 	</a>
 	<a href="https://leetcode.com/Botirjon_Ruzmetov/" style="text-decoration: none;">
