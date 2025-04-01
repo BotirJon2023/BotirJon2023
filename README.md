@@ -27,7 +27,7 @@
 
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" title="java" width="80" height="80"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" title="bash" width="80" height="80"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" title="gradle" width="80" height="80"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gradle/gradle-plain.svg" title="gradle" width="80" height="80"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="80" height="80"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" title="mysql" width="80" height="80"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg" title="spring" width="80" height="80"/>&nbsp;
