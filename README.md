@@ -15,7 +15,7 @@
 ### About me
 - 🤓 Software Developer
 - 🌱 I’m currently working with **Java,** **TypeScript,** **Python**
-- 📄 Know about me [CV](https://github.com/BotirJon2023/Basic_Java/tree/main/CV_B.Ruzmetov.pdf)
+- 📄 Know about me [CV](https://drive.google.com/file/d/1C_2GjZyg63hpg5gMxcGQtJFG4kkWqUZm/view?usp=drive_link)
 - 💻 Working on a project [HotelProjectApp](https://github.com/BotirJon2023/Basic_Java/tree/main/HotelProjectApp)
 - 📫 Reach me by email: lawyer.b.ruzmetov@gmail.com
 - 🌍 I speak English, German, Turkish, Russian, Uzbek 
